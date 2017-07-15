@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a7xltechn/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/samsung/a7xltechn/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/a7xltechn/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/samsung/a7xltechn/proprietary/etc/Tfa9897.cnt:system/etc/Tfa9897.cnt \
     vendor/samsung/a7xltechn/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/samsung/a7xltechn/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/samsung/a7xltechn/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
